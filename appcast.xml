@@ -4,12 +4,12 @@
         <title>rtaudio</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 13 Mar 2026 14:04:03 +0000</pubDate>
+            <pubDate>Fri, 13 Mar 2026 14:07:26 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="rtaudio.dmg" length="4402070" type="application/octet-stream" sparkle:edSignature="z4aJTfq7OXrEW53B27nlBxIjXxjZAxOuOxjJdSRd5GdTlAbf0944rguFn1sS2NcoU0Mofa53xyRBtJVKKlKkCA=="/>
+            <enclosure url="rtaudio.dmg" length="4402513" type="application/octet-stream" sparkle:edSignature="/RwEqFHreYGjn0EH7AqZbQm+bqG20JjnLlH/wTm0e0nv9jq6AZH7u1mo7Liw5MMmuYeHV2T49gZIXzeG2L1BBg=="/>
         </item>
     </channel>
 </rss>
