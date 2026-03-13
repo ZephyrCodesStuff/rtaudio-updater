@@ -3,13 +3,13 @@
     <channel>
         <title>rtaudio</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Fri, 13 Mar 2026 14:29:07 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.46</title>
+            <pubDate>Fri, 13 Mar 2026 14:33:50 +0000</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.46</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ZephyrCodesStuff/rtaudio/releases/download/release-9ede49d/rtaudio.dmg" length="4402055" type="application/octet-stream" sparkle:edSignature="b5hLola5oL92ybIUMue5WmmATzq+nc+BbLN0pFZxwrfnzVUDPZMD1MwWsDmxM3N3Z4y18wuYxC7xgQyIltGXAg=="/>
+            <enclosure url="https://github.com/ZephyrCodesStuff/rtaudio/releases/download/release-86af4d5/rtaudio.dmg" length="4402488" type="application/octet-stream" sparkle:edSignature="DHfwQCiEdTO5KuRvdpi0sxTS9U7ObEO8axL1CEfPCxzL8vbNYXx6DalBP7z9+XMEO0aItx8tZIjLLZf1bDcpAg=="/>
         </item>
     </channel>
 </rss>
