@@ -4,12 +4,12 @@
         <title>rtaudio</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 13 Mar 2026 14:07:26 +0000</pubDate>
+            <pubDate>Fri, 13 Mar 2026 14:12:43 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="rtaudio.dmg" length="4402513" type="application/octet-stream" sparkle:edSignature="/RwEqFHreYGjn0EH7AqZbQm+bqG20JjnLlH/wTm0e0nv9jq6AZH7u1mo7Liw5MMmuYeHV2T49gZIXzeG2L1BBg=="/>
+            <enclosure url="https://zephyrcodesstuff.github.io/rtaudio-updater/rtaudio.dmg" length="4402349" type="application/octet-stream" sparkle:edSignature="w2jTemKyiBej8B5PPOa0FPcuIgrPHydWfiEcSj28gykmkDVpxNSG5jeeiAjDE7vFNquk7Ipziz9JOgpXRUy5Ag=="/>
         </item>
     </channel>
 </rss>
